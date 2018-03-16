@@ -32,7 +32,7 @@ public class PasswordCheckerMain {
     System.out.println("Janyl Jumadinova " + new Date());
     System.out.println();
 
-    // Step Four: Read in the year from the file
+    // Step Four: Read in the password from the file
 
     // Step Five: Construct an instance of the PasswordChecker class
 
